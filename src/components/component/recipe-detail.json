@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_component_recipe_details",
+  "info": {
+    "displayName": "recipeDetail",
+    "icon": "restaurant",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "integer"
+    },
+    "steps": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_component_recipesteps",
+  "info": {
+    "displayName": "recipestep",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "integer"
+    },
+    "steps": {
+      "type": "text"
+    }
+  }
+}

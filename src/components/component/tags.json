@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_component_tags",
+  "info": {
+    "displayName": "Tags",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "integer"
+    },
+    "pax": {
+      "type": "integer"
+    },
+    "prepTime": {
+      "type": "integer"
+    },
+    "cookTime": {
+      "type": "integer"
+    },
+    "cuisineType": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string"
+    }
+  }
+}

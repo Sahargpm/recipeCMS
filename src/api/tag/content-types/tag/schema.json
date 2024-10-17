@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tags",
+  "info": {
+    "singularName": "tag",
+    "pluralName": "tags",
+    "displayName": "tag",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "recipeName": {
+      "type": "string"
+    },
+    "price": {
+      "type": "integer"
+    },
+    "prepTime": {
+      "type": "integer"
+    },
+    "pax": {
+      "type": "integer"
+    },
+    "cuisineType": {
+      "type": "string"
+    },
+    "difficulty": {
+      "type": "string"
+    },
+    "cookTime": {
+      "type": "integer"
+    }
+  }
+}
