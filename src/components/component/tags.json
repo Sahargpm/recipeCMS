@@ -7,16 +7,16 @@
   "options": {},
   "attributes": {
     "price": {
-      "type": "integer"
+      "type": "string"
     },
     "pax": {
-      "type": "integer"
+      "type": "string"
     },
     "prepTime": {
-      "type": "integer"
+      "type": "string"
     },
     "cookTime": {
-      "type": "integer"
+      "type": "string"
     },
     "cuisineType": {
       "type": "string"
